@@ -6,7 +6,7 @@ body {
     margin: 0;
 }
 section {
-    min-height: 90vh;
+    /* min-height: 90vh; */
     color: white;
     background: linear-gradient(180deg, #1b1b1b, #121212);
     box-shadow: 0 0 20px #14b8a5 ;
